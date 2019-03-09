@@ -9,3 +9,14 @@ C:\Users\andon\Desktop\Ejemplo2\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\E
 C:\Users\andon\Desktop\Ejemplo2\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).AssemblyInfo.cs
 C:\Users\andon\Desktop\Ejemplo2\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).dll
 C:\Users\andon\Desktop\Ejemplo2\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).pdb
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\bin\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).deps.json
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\bin\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).runtimeconfig.json
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\bin\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).runtimeconfig.dev.json
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\bin\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).dll
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\bin\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).pdb
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).csprojAssemblyReference.cache
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).csproj.CoreCompileInputs.cache
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).AssemblyInfoInputs.cache
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).AssemblyInfo.cs
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).dll
+C:\Users\andon\source\repos\Fundavida\Proyectos\Ejemplo2 (Calculadora)\Ejemplo2 (Calculadora)\obj\Debug\netcoreapp2.1\Ejemplo2 (Calculadora).pdb

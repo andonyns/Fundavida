@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andon\\Desktop\\Ejemplo2\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora).csproj",
+      "projectUniqueName": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora).csproj",
       "projectName": "Ejemplo2 (Calculadora)",
-      "projectPath": "C:\\Users\\andon\\Desktop\\Ejemplo2\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora).csproj",
+      "projectPath": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora).csproj",
       "packagesPath": "C:\\Users\\andon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andon\\Desktop\\Ejemplo2\\Ejemplo2 (Calculadora)\\obj\\",
+      "outputPath": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo2 (Calculadora)\\Ejemplo2 (Calculadora)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

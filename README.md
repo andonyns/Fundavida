@@ -13,4 +13,4 @@ Ejemplos para el curso de Tecnico de presentacion para jovenes emprendedores
 	* Ejemplos de if
 
 4. Sumar 10 numeros
-	* Ejemplo de la suma de los primeros 10 numeros con un while. También disponible en: https://repl.it/@AndonyNS/Sumar10Numeros
+	* Ejemplo de la suma de los primeros 10 números con un while. También disponible en: https://repl.it/@AndonyNS/Sumar10Numeros
