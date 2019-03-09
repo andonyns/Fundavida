@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Ejemplo2__Calculadora_
 {
@@ -28,15 +26,38 @@ namespace Ejemplo2__Calculadora_
         //Este metodo debe pedir al usuario que ingrese 1 para sumar, 2 para restar, 3 para multiplicar o 4 para dividir
         public int ElegirOpcion()
         {
-            //De momento solo devolvemos uno para decir que la opcion elegida fue sumar
-            return 1;
+            Console.WriteLine("Digite 1 para sumar, 2 para restar, 3 para multiplicar o 4 para dividir");
+
+            var entrada = Console.ReadLine();
+
+            var digito = Convert.ToInt32(entrada);
+
+            return digito;
         }
 
         //Este metodo debe ejecutar la opcion seleccionada, si la opcion fue 1, debe llamar al metodo suma.
         public void EjecutarOpcion(int operacionSeleccionada)
         {
-            //De momento siempre va a hacer la suma, sin preguntar la opcion. Esto debe cambiar
-            resultado = Sumar(digito1, digito2);
+            if (operacionSeleccionada == 1)
+            {
+                resultado = Sumar(digito1, digito2);
+            }
+            else if (operacionSeleccionada == 2)
+            {
+                resultado = Restar(digito1, digito2);
+            }
+            else if (operacionSeleccionada == 3)
+            {
+                resultado = Multiplicar(digito1, digito2);
+            }
+            else if (operacionSeleccionada == 4)
+            {
+                resultado = Dividir(digito1, digito2);
+            }
+            else
+            {
+                Console.WriteLine("Opcion Invalida");
+            }
         }
 
 
