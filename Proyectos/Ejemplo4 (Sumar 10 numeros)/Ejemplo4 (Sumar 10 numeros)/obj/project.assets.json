@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo4\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros).csproj",
+      "projectUniqueName": "C:\\Code\\Fundavida\\Proyectos\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros).csproj",
       "projectName": "Ejemplo4 (Sumar 10 numeros)",
-      "projectPath": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo4\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros).csproj",
+      "projectPath": "C:\\Code\\Fundavida\\Proyectos\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros).csproj",
       "packagesPath": "C:\\Users\\andon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andon\\source\\repos\\Fundavida\\Proyectos\\Ejemplo4\\Ejemplo4 (Sumar 10 numeros)\\obj\\",
+      "outputPath": "C:\\Code\\Fundavida\\Proyectos\\Ejemplo4 (Sumar 10 numeros)\\Ejemplo4 (Sumar 10 numeros)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

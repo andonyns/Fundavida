@@ -14,3 +14,6 @@ Ejemplos para el curso de Tecnico de presentacion para jovenes emprendedores
 
 4. Sumar 10 numeros
 	* Ejemplo de la suma de los primeros 10 números con un while. También disponible en: https://repl.it/@AndonyNS/Sumar10Numeros
+
+5. Ejemplo promedio
+	* Ejemplo del calculo de promedio con un arreglo de notas
