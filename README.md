@@ -17,3 +17,6 @@ Ejemplos para el curso de Tecnico de presentacion para jovenes emprendedores
 
 5. Ejemplo promedio
 	* Ejemplo del calculo de promedio con un arreglo de notas
+	
+6. Ejemplo promedio
+	* Ejemplo del un objeto con constructor.
