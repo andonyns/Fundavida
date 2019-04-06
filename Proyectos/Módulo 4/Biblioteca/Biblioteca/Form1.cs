@@ -24,6 +24,8 @@ namespace Biblioteca
             var libro = new Libro();
             libro.nombre = entradaNombre.Text;
             libro.codigo = Convert.ToInt32(entradaCodigo.Text);
+            libro.autor = entradaAutor.Text;
+            libro.precio = Convert.ToInt32(entradaPrecio.Text);
 
             listaDeLibros.Items.Add(libro.ObtenerInformacion());
         }

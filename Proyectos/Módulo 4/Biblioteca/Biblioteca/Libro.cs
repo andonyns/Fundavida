@@ -11,10 +11,11 @@ namespace Biblioteca
         public int codigo;
         public string nombre;
         public string autor;
+        public int precio;
 
         public string ObtenerInformacion()
         {
-            var info = "Codigo " + codigo + ". " +nombre + ". Escrito por: " + autor;
+            var info = "Codigo " + codigo + ". " +nombre + ". Escrito por: " + autor + ". El precio es: " + precio;
             return info;
         }
     }
