@@ -12,6 +12,8 @@ namespace Biblioteca
 {
     public partial class Form1 : Form
     {
+        private List<Libro> libros = new List<Libro>();
+
         public Form1()
         {
             InitializeComponent();
@@ -24,14 +26,31 @@ namespace Biblioteca
 
             try
             {
-                var libro = new Libro();
-                libro.nombre = entradaNombre.Text;
+                var nuevoLibro = new Libro();
 
-                libro.codigo = Convert.ToInt32(entradaCodigo.Text);
-                libro.autor = entradaAutor.Text;
-                libro.precio = Convert.ToInt32(entradaPrecio.Text);
+                nuevoLibro.nombre = entradaNombre.Text;
+                nuevoLibro.codigo = Convert.ToInt32(entradaCodigo.Text);
+                nuevoLibro.autor = entradaAutor.Text;
+                nuevoLibro.precio = Convert.ToInt32(entradaPrecio.Text);
 
-                listaDeLibros.Items.Add(libro.ObtenerInformacion());
+                bool yaExiste = false;
+
+                for (int i = 0; i < libros.Count(); i++)
+                {
+                    if(libros[i] != null && libros[i].codigo == nuevoLibro.codigo)
+                    {
+                        yaExiste = true;
+                    }
+                }
+
+                if (yaExiste)
+                {
+                    etiquetaErrores.Text = "El codigo de libro ya esta registrado.";
+                } else
+                {
+                    libros.Add(nuevoLibro);
+                    listaDeLibros.Items.Add(nuevoLibro.ObtenerInformacion());
+                }
             }
             catch (Exception ex)
             {
