@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.entradaPrecio = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.etiquetaErrores = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // listaDeLibros
@@ -124,11 +125,23 @@
             this.label4.TabIndex = 8;
             this.label4.Text = "Precio";
             // 
+            // etiquetaErrores
+            // 
+            this.etiquetaErrores.AutoSize = true;
+            this.etiquetaErrores.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.etiquetaErrores.ForeColor = System.Drawing.Color.Red;
+            this.etiquetaErrores.Location = new System.Drawing.Point(35, 354);
+            this.etiquetaErrores.MaximumSize = new System.Drawing.Size(300, 300);
+            this.etiquetaErrores.Name = "etiquetaErrores";
+            this.etiquetaErrores.Size = new System.Drawing.Size(0, 16);
+            this.etiquetaErrores.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.etiquetaErrores);
             this.Controls.Add(this.entradaPrecio);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.entradaAutor);
@@ -158,6 +171,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox entradaPrecio;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label etiquetaErrores;
     }
 }
 
